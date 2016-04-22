@@ -31,7 +31,7 @@
 		<beans:property name="url"
 			value="jdbc:mysql://localhost:3306/testdb" />
 		<beans:property name="username" value="appUser" />
-		<beans:property name="password" value="Summer*2015." />
+		<beans:property name="password" value="InsertPassworHere" />
 	</beans:bean>
 
 	<!-- Hibernate 4 SessionFactory Bean definition -->
